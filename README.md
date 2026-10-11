@@ -4,4 +4,4 @@ Tracks laptops, cameras, and lab kits available for student checkout.
 edit..Diego
 edit: This is the search feature edit
 
-Tracks laptops, tablets, and lab kits
+Tracks laptops, tablets, and cameras.
